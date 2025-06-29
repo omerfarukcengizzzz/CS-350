@@ -19,7 +19,7 @@ This project transmits messages in Morse code using GPIO LEDs and a button. Pres
 **Reflection:**  
 This was my favorite milestone. It challenged me to coordinate hardware timing while staying responsive to button presses. I really learned the value of clean state transitions and how multithreading can make embedded systems more responsive.
 
-📂 [View Morse Code Project Files](./MorseCode-Milestone)
+📂 [View Morse Code Project Files](./Morse Code Milestone (Module 5))
 
 ---
 
@@ -38,7 +38,7 @@ A full thermostat prototype using real sensor data, button controls, LED indicat
 **Reflection:**  
 This project brought everything together. I was able to integrate sensors, user input, display output, and serial communication into one working system. It really felt like a full IoT device.
 
-📂 [View Thermostat Project Files](./Thermostat-Lab)
+📂 [View Thermostat Project Files](./Thermostat Lab (Module 7))
 
 ---
 
