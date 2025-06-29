@@ -1,4 +1,4 @@
-# CS-350 Final Portfolio – Omer Cengiz
+# CS-350 Final Portfolio
 
 This portfolio showcases two projects I worked on during CS-350 that reflect what I’ve learned about embedded systems, GPIO control, state machines, and real-time input/output on the Raspberry Pi.
 
